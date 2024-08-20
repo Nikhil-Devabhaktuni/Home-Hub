@@ -138,4 +138,4 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'youremail@gmail.com' 
 EMAIL_HOST_PASSWORD = 'pass' 
-EMAIL_RECEIVING_USER = ['x22156411@student.ncirl.ie'] 
+EMAIL_RECEIVING_USER = ['reciver_mail_id@gmail.com'] 
